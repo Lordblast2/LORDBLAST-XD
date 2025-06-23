@@ -1,0 +1,16 @@
+{
+  "name": "LORDBLAST-XD",
+  "description": "For deploying LORDBLAST-XD.",
+  "repository": "https://github.com/Lordblast2/LORDBLAST-XD",
+  "build": {
+    "commands": {
+      "install": "yarn install",
+      "start": "yarn start"
+    }
+  },
+  "envs": {
+    "SESSION_ID": {
+      "description": "Put Your Session Id"
+    }
+  }
+}

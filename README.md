@@ -28,13 +28,13 @@
 
 
 <a href="https://dashboard.heroku.com/new?template=https://github.com/Lordblast2/LORDBLAST-XD/tree/main">
-    <img title="DEPLOY PEACEMAKER BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+    <img title="DEPLOY LORDBLAST BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  <p align="center">
- <a href="https://github.com/Peacemaker-cyber/Peacemaker-md/fork"><img title="LORDBLAST-XD" src="https://img.shields.io/badge/FORK-LORDBLAST XD-h?color=008000&style=for-the-badge&logo=github"></a>
+ <a href="https://github.com/Lordblast2/LORDBLAST-XD/fork"><img title="LORDBLAST-XD" src="https://img.shields.io/badge/FORK-LORDBLAST XD-h?color=008000&style=for-the-badge&logo=github"></a>
 
 
 
@@ -61,7 +61,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+LORDBLAST+XD+Quality+Edition+by+Prince+Emmanuel;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+LORDBLAST+XD+Quality+Edition+by+lord+Elvis;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
 </h3>
 
 <p align="center">
